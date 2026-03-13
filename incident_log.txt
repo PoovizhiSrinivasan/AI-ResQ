@@ -1,0 +1,2 @@
+2026-03-10 11:39:44 | distress | Confidence: 1.00 | Risk: HIGH
+2026-03-10 12:19:06 | distress | Confidence: 0.63 | Risk: LOW
